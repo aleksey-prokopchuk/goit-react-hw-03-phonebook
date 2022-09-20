@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_lable {
+  display: inherit;
+  flex-direction: inherit;
+}
+
+.btn_submit {
+  width: 100px;
+  padding: 10px;
+  display: block;
+}
